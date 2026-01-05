@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: "/reusable-components-week01/",
+  base: "/reusable-component-week01/",
 })
